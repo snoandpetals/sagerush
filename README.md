@@ -19,6 +19,8 @@ First, you'll need console edition assets. I won't describe how to get this. Ext
 
 After launching the game, head to the BOSS RUSH room (if you're already there, leave then re-enter.) and talk to Basil. Start the BASIL RUSH as normal, but don't enter the main teleporter. Instead, take the one on your right.
 
+**Note: This mod is incompatible with any mod that adds Console Content, as it already includes such files. Thank you.**
+
 </details>
 
 # Screenshots!
