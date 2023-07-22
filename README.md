@@ -1,6 +1,8 @@
 # Sage Rush!
 Adds a Basil Rush-exclusive area inside the BOSS RUSH LOBBY!
 
+![SAGE](readme/SAGERUSH.png)
+
 **NOTE: This mod requires you to own the console edition of OMORI!**
 
 This is for copyright reasons. OMOCAT made the choice to make Console Exclusive content exclusive to consoles, and I don't want to go against their wishes.
@@ -23,7 +25,7 @@ After launching the game, head to the BOSS RUSH room (if you're already there, l
 <details>
   <summary>Click to Open</summary>
 
-  ![SAGE Fight](readme/07-22_01-47-AM_OMORI.png)
+![SAGE Fight](readme/07-22_01-47-AM_OMORI.png)
 ![New Teleporter](readme/07-22_01-45-AM_OMORI.png)
 ![Lore](readme/07-22_01-46-AM_OMORI-2.png)
 
