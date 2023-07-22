@@ -31,7 +31,10 @@ After launching the game, head to the BOSS RUSH room (if you're already there, l
 
 </details>
 
-CREDITS:
+# CREDITS
+
 The-Red-Death on GameBanana for the original Console Port mod!
+
 Akari L on Discord for the original Custom Battle Action Text I used!
+
 OMOCAT for creating the game :)
